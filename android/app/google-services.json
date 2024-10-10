@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701283127731",
+    "project_id": "tea-midterm",
+    "storage_bucket": "tea-midterm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701283127731:android:e943b5b91f26862084bbc6",
+        "android_client_info": {
+          "package_name": "com.midterm.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvat2f5mTglwsuVcftfRFyu2y4kk6nftw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
