@@ -1,5 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:midterm/database/auth.dart';
 import 'package:midterm/database/product.dart';
 import 'package:midterm/database/service.dart';
 import 'package:midterm/page/button_bar.dart'; // Đảm bảo rằng đây là đúng đường dẫn
@@ -140,7 +141,7 @@ class _HomeState extends State<Home> {
           IconButton(
             icon: const Icon(Icons.logout),
             onPressed: () {
-              // signOutUser(context);
+              signOutUser(context);
             },
           ),
         ],
